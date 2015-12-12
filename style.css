@@ -1,0 +1,25 @@
+.hello{
+  color: blue;
+  font-size: 100px;
+  text-align: center;
+}
+
+body{
+  background-color: #b3e6ff;
+}
+
+#block{
+  width: 300px;
+  height: 300px;
+  background-color: purple;
+  margin-top: 200px;
+  position: absolute;
+}
+
+.text
+{
+  color: white;
+  margin-top: 40%;
+  text-align: center;
+  font-size: 30px;
+}
